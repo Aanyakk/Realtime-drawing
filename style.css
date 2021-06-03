@@ -1,0 +1,33 @@
+.class1
+{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 11px black;
+}
+
+.class2
+{
+    font-size: 15px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 11px black;
+}
+
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height:3 ;
+    text-align: center;
+    background-color: rgb(38, 139, 255);
+    color: rgb(255, 211, 211);
+}
+
+canvas
+{
+    border-radius: 11px;
+    border: 9px solid blue;
+    box-shadow: 5px 5px 11px red;
+}
